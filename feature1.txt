@@ -1,3 +1,7 @@
 TP 42 GITHUB
 Exercice 1
 Création, gestion et fusion de branches
+Fichier : feature1
+Branche : feature1
+------------------
+Modification du fichier1    
